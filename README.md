@@ -2,8 +2,10 @@
 程序永久更新地址：https://github.com/nofeeeth/NoDevFee
 Email：nofeeeth@gmail.com
 
-V1.3更新内容：
-修复CPU占用过高问题
+V2.0开发中 敬请期待：
+1.修复CPU占用过高问题
+2.增加en_us语言选择
+3.增加NBMiner&T-rex核心拦截
 
 V1.1更新内容：
 修复HOSTS文件不存在时报错问题
