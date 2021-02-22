@@ -5,14 +5,11 @@ Email：nofeeeth@gmail.com
 
 下载地址：https://wws.lanzous.com/s/nofee
 
-V2.0开发中 敬请期待：
+V2.0已发布：
 1.修复CPU占用过高问题
 2.增加en_us语言选择
 3.增加NBMiner&T-rex核心拦截
 
-V1.1更新内容：
-修复HOSTS文件不存在时报错问题
-优化日志输出
 
 端口定义：如矿池地址cn.sparkpool.com:3333 矿池端口即为3333
 监控矿池：添加矿池地址到该窗口则意味着所有连接到该矿池的地址都会被进行拦截
