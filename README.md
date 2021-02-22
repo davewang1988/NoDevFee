@@ -60,6 +60,9 @@ Q：拦截到那段时间如果没有算出hash提交则矿池不会记录
 F：为什么开启后再点击开始挖矿报错Unknown CMD request：eth_submitLogin?
 Q：因为挖矿软件用的3333端口被转发到127.0.0.1，但是本地未监听本端口，具体解决看小白操作步骤按步骤操作或自己在挖矿软件中新建矿池127.0.0.1+监听列表中端口
 
+F: ERROR - ethash - Failed to establish connection to mining pool: Connection refused
+Q：挖矿软件修改为连接非3333端口矿池地址或 127.0.0.1:13333
+
 拦截方式：
 1.劫持抽水地址改为自己钱包地址 
 2.拦截所有抽水请求，禁止其链接矿池
