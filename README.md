@@ -1,4 +1,7 @@
 # NoDevFee
+
+README_en.md：https://github.com/nofeeeth/NoDevFee/blob/main/README_en.md
+
 程序永久更新地址：https://github.com/nofeeeth/NoDevFee
 
 Email：nofeeeth@gmail.com
