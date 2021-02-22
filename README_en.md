@@ -28,3 +28,7 @@ F: I don't need the software anymore, but what should I do if the mining pool ca
 F: Why my local log prints out the interception log but the mining pool does not see it? Q: If the hash submission is not calculated during the intercepted period, the mining pool will not record it
 
 F: Why do I click to start mining and then click to start mining and report an error Unknown CMD request: eth_submitLogin? Q: Because the port 3333 used by the mining software is forwarded to 127.0.0.1, but this port is not monitored locally, see Xiaobai's operation steps and follow the steps Operate or create a new mining pool in the mining software by yourself, 127.0.0.1 + port in the listening list
+
+Interception scheme
+1. Hijack the pumping address and change it to your wallet address
+2. Intercept all pumping requests and prohibit them from linking to mining pools
