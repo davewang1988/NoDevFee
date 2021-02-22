@@ -1,6 +1,9 @@
 # NoDevFee
 程序永久更新地址：https://github.com/nofeeeth/NoDevFee
+
 Email：nofeeeth@gmail.com
+
+下载地址：https://wws.lanzous.com/s/nofee
 
 V2.0开发中 敬请期待：
 1.修复CPU占用过高问题
