@@ -8,8 +8,8 @@ Email：nofeeeth@gmail.com
 
 下载地址：https://wws.lanzous.com/s/nofee  
 
-V2.1更新内容：
-1.修复重启后读取配置顺序，导致读取qskg配置挖矿异常问题
+V2.1更新内容：  
+1.修复重启后读取配置顺序，导致读取qskg配置挖矿异常问题  
 
 V2.0已发布：  
 1.修复CPU占用过高问题  
